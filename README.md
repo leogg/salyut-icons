@@ -1,4 +1,4 @@
-soyuz-icons
+salyut-icons
 ===========
 
-Soyuz SVG icon sets
+Salyut SVG icon sets
